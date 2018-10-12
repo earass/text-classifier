@@ -6,3 +6,5 @@ The dataset was compiled from different sources and was split into 80/20 ratio f
 
 After evaluating on the test set, 94.3% accuracy was achieved
 
+Python Flask framework is used to make a web app to get the predictions
+
